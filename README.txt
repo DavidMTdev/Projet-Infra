@@ -19,3 +19,7 @@ Contenu du rendu intermédiaire N°1 :
 -Un document descriptif du rendu de chaque membre du groupe 
 -Un document descriptif de l'installation du serveur LINUX et du serveur WEB 
 
+
+Contenu du rendu intermédiaire N°2 :
+- Document descriptif du rendu de chaque membre du groupe
+- Packet Tracer (Adressage IP, Schéma de l'infrastructure)
