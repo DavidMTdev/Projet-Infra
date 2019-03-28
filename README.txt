@@ -14,6 +14,7 @@ Membre 2 : David DA SILVA TEIXEIRA
 Membre 3 : Léo PEYRE 
 
 Contenu du rendu intermédiaire N°1 :
+
 -Rétro planning (Gantt)
 -Présentation des membres
 -Un document descriptif du rendu de chaque membre du groupe 
@@ -21,5 +22,12 @@ Contenu du rendu intermédiaire N°1 :
 
 
 Contenu du rendu intermédiaire N°2 :
+
 - Document descriptif du rendu de chaque membre du groupe
 - Packet Tracer (Adressage IP, Schéma de l'infrastructure)
+
+
+Contenu du rendu intermédiaire N°3 :
+
+- Document descriptif du rendu de chaque membre du groupe
+- Compte rendu de l'installation et de la configuration du serveur Windows 
