@@ -31,3 +31,9 @@ Contenu du rendu intermédiaire N°3 :
 
 - Document descriptif du rendu de chaque membre du groupe
 - Compte rendu de l'installation et de la configuration du serveur Windows 
+
+
+Contenu du rendu intermédiaire N°4 :
+
+-- Document descriptif du rendu de chaque membre du groupe
+- Compte rendu de la connexion de l'ensemble des VM entre elles
